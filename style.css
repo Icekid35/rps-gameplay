@@ -12,7 +12,7 @@
 }
 @font-face {
   font-family: barlow;
-  src: url("fonts/BarlowSemiCondensed-SemiBold.ttf");
+  src: url("/BarlowSemiCondensed-SemiBold.ttf");
 }
 @font-face {
   font-family: barlowbold;
@@ -33,7 +33,7 @@ body{
 }
 header{
   width: 85vw;
-  max-width: 600px;
+  max-width: 700px;
   
   margin: auto;
   border: 3px solid var(--header);
@@ -68,13 +68,13 @@ height: 100%;
 }
 main{
   width: 95vw;
-  max-width: 600px;
+  max-width: 700px;
   
   margin: auto;
   display: flex;
   justify-content:center;
   align-items: center;
-  padding: 20px 30px;
+  padding: 20px .5rem;
   
 }
 
@@ -87,7 +87,7 @@ main{
 .rules{
   position: absolute;
   /*bottom: 0px;*/
-  right: 10%;
+  right: 1%;
   border: 1px solid white;
   background: transparent;
   color:white;
