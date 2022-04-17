@@ -360,4 +360,7 @@ header img{
   left: 50%;
   transform: translateX(-50%)
 }
+main{
+  padding: 20px .5rem;
+}
 }
