@@ -104,8 +104,8 @@ $('.house .circle').style.boxShadow='none'
 
 function boost(you=true){
   var opacities=[
-    'hsla(0,100%,100%,0.07)',
-    'hsla(237, 49%, 15%,0.35)',
+    'hsla(0,100%,100%,0.2)',
+    'hsla(237, 49%, 15%,0.4)',
      'hsla(237, 49%, 15%,0.2)',
    
     ]
