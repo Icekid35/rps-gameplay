@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [VISIT](https://rps-gameplay.vercel.app)
+- Live Site URL: [VISIT](https://rps-game.vercel.app)
 
 ## My process
 
